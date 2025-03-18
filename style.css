@@ -86,7 +86,7 @@ nav a:hover{
 /* Navbar End */
 /* Home Start */
 .home{
-    background-image: url(../images/banner.jpg);
+    background-image: url(./images/banner.jpg);
     background-position: center center;
     background-size: cover;
   
@@ -442,7 +442,7 @@ hr{
     margin: 6% 0;
 }
 .sora{
-    background-image: url(../images/banner.jpg);
+    background-image: url(./images/news.jpg);
     background-position: center center;
 
 }
