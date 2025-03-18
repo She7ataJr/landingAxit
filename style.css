@@ -459,8 +459,8 @@ hr{
     border-radius: 3px;
 }
 .btn:hover{
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #ff0000;
+    color: #ffffff;
     font-family: 'Segoe UI', light;
     border:2px solid #000000;
     transition: all 0.2s;
